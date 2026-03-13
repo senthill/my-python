@@ -1,0 +1,7 @@
+print(type(str()))
+print(type(int()))
+print(type(float()))
+print(type(bool()))
+print(type(list()))
+print(type(dict()))
+print(type(None))
