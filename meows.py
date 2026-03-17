@@ -14,7 +14,10 @@
 # cat.meow()
 
 def meow(n: int) -> None:
-    """ Prints n meows"""
+    """ Prints n meows
+        :param n: number of meows
+        :return: None
+    """
     for i in range(n):
         print("meow")
 
